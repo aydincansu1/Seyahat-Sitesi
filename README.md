@@ -8,4 +8,4 @@ HTML5 CSS3
 
 <h2>Ekran Görüntüsü</h2>
 
-![Uploading seyahat.gif…]()
+![Uploading seyahat.gif]()
